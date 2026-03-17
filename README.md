@@ -48,6 +48,4 @@ JavaScript
 PHP (Backend for advanced version)
 
 🌐 Live Demo
-
-👉 Add your live link here
-Example: https://yourusername.github.io/clinic-website
+https://lucee8.github.io/Clinicsample1/
